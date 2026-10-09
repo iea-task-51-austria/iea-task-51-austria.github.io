@@ -1,0 +1,25 @@
+# Quarto build output and cache
+/public/
+/.quarto/
+/_freeze/
+/_site/
+
+# Local backup zip (do not commit)
+web-main.zip
+
+# Quarto extension lockfiles are fine to commit; nothing to exclude here
+
+# RStudio project user files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp

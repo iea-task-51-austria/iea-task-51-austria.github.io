@@ -1,0 +1,50 @@
+---
+title: "Resources"
+description: "Some resources used in our project"
+format:
+  html:
+    theme: quartz
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/high_resolution_light_bulb_image.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 300px;
+      }
+      </style>
+#bibliography: "references.bib"
+editor: visual
+---
+
+::: column-margin
+```{r, echo=FALSE}
+knitr::include_graphics("../imgs/logo_energyprotect_transparent.png")
+```
+:::
+
+An overview over the resources we use, where to find information, etc.
+
+Will be gradually filled with content.
+
+# GCM and RCMs used
+
+# Dynamical and empirical-statistical downscaling
+
+# Machine-learning based model mixing
+
+
+
+
+
+

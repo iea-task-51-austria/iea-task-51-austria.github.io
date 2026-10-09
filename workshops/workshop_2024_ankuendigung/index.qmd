@@ -1,0 +1,86 @@
+---
+#title: "Workshops"
+format:
+  html:
+    theme: quartz
+    link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
+    css: css/styles.css
+resources: movie.mp4 
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/header_workshop.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 300px;
+      }
+      </style>
+editor: visual
+
+#info: https://github.com/andrewheiss/ath-quarto/blob/main/cv/index.qmd
+---
+
+
+# IEA Task 51 Österreich-Workshop am 6.11.2024
+
+{{< video https://youtu.be/-SjL12BjIII >}}
+
+
+Das **Energiesystem der Zukunft ist ein vom Wetter getriebenes**. Um ein solches Energiesystem effizient und sicher zu betreiben, ist es von großer strategischer Bedeutung, den Einfluss von Wetterzuständen auf die Energieversorgung mit hoher Genauigkeit zu prognostizieren.
+GeoSphere Austria, Austro Control Digital Services GmbH und WEB Windenergie AG veranstalten am **6. November 2024 im NH Danube City Hotel, Wien den IEA Task 51 Österreich-Workshop**.
+
+**Die Veranstaltung richtet sich an:**
+
+*	**Expert:innen** der österreichischen Energieversorger, Energiehändler, Übertragungs- und Verteilnetzbetreiber und Energieagenturen
+
+*	**Forscher:innen und Studierende** an den österreichischen Universitäten und Forschungseinrichtungen
+
+Weitere Informationen, inkl. dem vorläufigen Programm zum Workshop finden Sie weiter unten.
+
+
+## Anmeldung zum Workshop
+
+**Die Anmeldung zur Workshop-Teilnahme ist noch bis 15.10.2024 möglich!**
+
+::: {.blue-underline .center-text}
+[**Weiter zur Anmeldung geht's hier**](https://forms.office.com/e/YjNuZ6mQnE ){.external target="_blank"}
+:::
+
+## Workshop-Programm
+<!-- Button for downloading the PDF -->
+<a href="https://iea-task-51-austria.github.io/workshops/IEA_Task_51_Oesterreich_Workshop_Programm.pdf" download="IEA_Task_51_Oesterreich_Workshop_Programm.pdf" class="btn btn-primary" role="button">
+  Download Programm
+</a>
+
+<iframe src="IEA_Task_51_Oesterreich_Workshop_Programm.pdf" width="100%" height="600px">
+</iframe>
+
+
+## Detailinformationen zum Workshop
+<!-- Button for downloading the PDF -->
+<a href="https://iea-task-51-austria.github.io/workshops/IEA_Task_51_Oesterreich_Workshop_Details.pdf" download="IEA_Task_51_Oesterreich_Workshop_Details.pdf" class="btn btn-primary" role="button">
+  Download Detailinformationen
+</a>
+
+<iframe src="IEA_Task_51_Oesterreich_Workshop_Details.pdf" width="100%" height="600px">
+</iframe>
+
+
+
+
+
+
+
+

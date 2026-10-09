@@ -1,0 +1,64 @@
+---
+title: "1. IEA Task 51 Österreich-Workshop"
+author: "Irene Schicker, Lukas Strauss"
+date: '2024-12-01'
+date-modified: last-modified
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+
+
+format:
+  html:
+    theme: quartz
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/header_ieat51.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 250px;
+      }
+      </style>
+editor: visual
+
+---
+
+# "IEA Task 51 / Forecasting for the weather-driven energy system" - 1. Österreich-Workshop
+
+Was sind die neusten Entwicklungen bei Vorhersagen für das Energiesystem? Revolutioniert künstliche Intelligenz die Energieprognosen wirklich und welche Risiken sind damit verbunden? Welche Daten braucht es?
+Und wie können Energiewirtschaft, Forschung und KI-Expertinnen bestmöglich zusammenarbeiten damit die Energiewende gelingt?
+
+Diese Fragen standen im Zentrum des 1. IEA Task 51 Österreich-Workshops. 
+120 Vertreter:innen von mehr als 50 Unternehmen der österreichischen Energiebranche und Forschungslandschaft diskutierten mit und brachten in interaktiven Sessions ihre Perspektiven ein. 
+Internationale Gäste aus Deutschland, Italien und Dänemark rundeten die Teilnehmerschaft ab.
+
+Die Schirmherrhaft für den Workshop wurde von @BMK übernommen, gefördert wurde die Veranstaltung durch die FFG. 
+Für das BMK sprach Bernhard Fürnsinn und machte deutlich wie wichtig Impulse aus der Branche sind, um die besten Rahmenbedingungen für den Erneuerbarenausbau zu schaffen. 
+In Key Note Lectures schlug Erich Klock von der Austro Control die Brücke zwischen Flugsicherung und Energiewirtschaft, Bernhard Niedermoser von der GeoSphere Austria beleuchtete den KI-Paradigmenwechsel in der Wettervorhersage.
+
+Seinen Abschluss fand der Workshop durch die Podiumsdiskussion mit ausgewiesenen Expertinnen. 
+Zu Wort kamen Gernot Wolfram von Austrian Power Grid: „Neue Methodiken zur Prognose von Erzeugung und Netzlastflüssen sind essenziell, im Vordergrund unserer Arbeit steht aber zu jedem Zeitpunkt die Versorgungssicherheit“. 
+Johannes Paeck, von Burgenland Energie: „Die Branche entwickelt sich mit unglaublichem Tempo. Es muss uns gelingen, Ergebnisse aus der Forschung schneller in die Praxis zu bringen.“ 
+Corinna Möhrlen von @WEPROG: „Wir brauchen unkomplizierteren Zugang zu den Daten der Industrie, um Innovationen in der Prognose umzusetzen“.
+
+Ein großes Dankeschön an alle Teilnehmer:innen, Vortragenden und Panelist:innen sowie die hervorragende organisatorische Abwicklung im Hintergrund! 
+Gemeinsam haben wir einen Schritt in Richtung eines engeren Austausches zwischen Industrie, Forscher:innen und KI-Expertinnen gesetzt. 
+
+Wir freuen uns auf die weiteren geplanten Veranstaltungen 2025!
+
+
+**Die Präsentationen vom Workshop 2024 finden Sie** [**hier**](https://iea-task-51-austria.github.io/workshops/workshop_2024_rueckblick )

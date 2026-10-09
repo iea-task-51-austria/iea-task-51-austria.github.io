@@ -1,0 +1,74 @@
+---
+title: "Projekte"
+format:
+  html:
+    theme: quartz
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(./files/header_projects.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 300px;
+      }
+      </style>
+editor: visual
+---
+
+# Aktuelle Projekte
+
+Hier ist eine Auflistung der aktuell laufenden Projekte der drei Projektpartner.
+
+::: {style="background-color: #f2f2f2;"}
+| **Projekt**        | **Destination Earth on-demand Extremes Digital Twin**  |
+|--------------------|----------------------------------------------------|
+| **Beschreibung**   | The DE330 project focuses on providing on-demand forecasts on sub-km and sub-hourly resolutions for extreme meteorological events such as storms, heavy precipitation, and more. Its Renewable Energy impact sector model component provides targeted wind and solar power predictions for such cases using the sub-km and sub-hourly data, with indicators for up/downramping or heat events. A key point is the detection and triggering of extreme events affecting the wind and solar power production. |
+| **Projektpartner** | GeoSphere Austria, gemeinsam mit europäischen Wetterdiensten |
+| **Kontakt**        | <a href="mailto:irene&#46;schicker&#64;geosphere&#46;at">irene&#46;schicker&#64;geosphere&#46;at</a> |
+| **Links**          | [Destination Earth](https://destination-earth.eu/){.external target="_blank"} |
+:::
+
+<br>
+
+::: {style="background-color: #f2f2f2;"}
+| **Projekt**        | **LAVIE: Load Forecast for Vienna Airport** |
+|--------------------|----------------------------------------------------|
+| **Beschreibung**   | Der rasante PV-Ausbau und die zunehmenden Einflüsse des Klimawandels bringen für die Stromnetze sowie große Erzeuger-Verbraucher riesige Herausforderungen bei der Prognose komplexer Lastgänge mit sich. Im Projekt LAVIE wurden innovative Lastprognosemodelle entwickelt, welche eine Reduktion der Prognosefehler und damit der Ausgleichsenergiekosten von bis zu 25% gegenüber konventionellen Modellen ermöglichen. |
+| **Projektpartner** | Austro Control Digital Services GmbH, Flughafen Wien AG |
+| **Kontakt**        | <a href="mailto:lukas&#46;strauss&#64;acds&#46;at">lukas&#46;strauss&#64;acds&#46;at</a>
+| **Links**          | [LAVIE Erste Ergebnisse](https://www.linkedin.com/feed/update/urn:li:activity:7225031569558691840){.external} |
+:::
+
+<br>
+
+::: {style="background-color: #f2f2f2;"}
+| **Projekt**        | **PROFICIENT: Production Anomaly Detection and Forecasting for Efficient Wind Power** |
+|--------------------|----------------------------------------------------|
+| **Beschreibung**   | PROFICIENT liefert ein System zur Echtzeitdetektion von Abweichungen der Windkrafterzeugung. Darauf aufbauend werden Intraday-Prognosen entwickelt, die die Ursachen von Erzeugungsabweichungen wie bspw. Rotorblattvereisung auf 9 STunden in die Zukunft absehen lassen. Das System ist einer der Schlüssel zu frühzeitigen Erkennung von Extremereignissen und Einleitung von Maßnahmen zur Stabilisierung des Stromnetzes. |
+| **Projektpartner** | Austro Control Digital Services GmbH, Austrian Power Grid AG |
+| **Kontakt**        | <a href="mailto:lukas&#46;strauss&#64;acds&#46;at">lukas&#46;strauss&#64;acds&#46;at</a>
+| **Links**          | [APG Windradvereisung](https://www.apg.at/projekte/windraederaneisung/){.external target="_blank"} |
+:::
+
+<br>
+
+::: {style="background-color: #f2f2f2;"}
+| **Projekt**        | **SIMONA: KI-gestütze Sicherweitendetektion aus 360°-Kameras an den österreichischen Flughäfen** |
+|--------------------|----------------------------------------------------|
+| **Beschreibung**   | SIMONA automatisiert die komplexe und fehleranfällige Wetterbeobachtung der vorherrschenden Sichtverhältnisse mittels KI-gestützten Verfahren der Bilderkennung. Das System gilt als eines der ersten zertifizierten KI-Systeme in der europäischen Luftfahrt. Es zeichnet sich durch die Erfüllung regulativer Vorgaben zur Anwendung von KI in sicherheitskritischen Bereichen aus. In einem nächsten Schritt werden Anwendungen für die Energiewirtschaft, insbes. den Bereich der Solar-Erzeugungsprognosen, entwickelt. |
+| **Projektpartner** | Austro Control Digital Services GmbH, Austro Control GmbH |
+| **Kontakt**        | <a href="mailto:lukas&#46;strauss&#64;acds&#46;at">lukas&#46;strauss&#64;acds&#46;at</a>
+| **Links**          | [Präsentation von Erich Klock beim 1. IEA Task 51 Österreich-Workshop](https://iea-task-51-austria.github.io/workshops/2024-11-06/KLOCK_2024-10-03_Inno-Agenda_vSST.pdf){} |
+:::
+
+<br>

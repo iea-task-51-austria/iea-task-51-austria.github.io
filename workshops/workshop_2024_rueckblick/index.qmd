@@ -1,0 +1,232 @@
+---
+#title: "Workshops"
+format:
+  html:
+    theme: quartz
+    link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
+    css: css/styles.css
+resources: movie.mp4 
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/header_workshop.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 300px;
+      }
+      </style>
+editor: visual
+
+#info: https://github.com/andrewheiss/ath-quarto/blob/main/cv/index.qmd
+---
+
+
+# IEA Task 51 Österreich-Workshop Rückblick
+
+## Highlights & Ergebnisse
+
+⚡ **"IEA Task 51 / Forecasting for the weather-driven energy system" - 1. Österreich-Workshop**⚡
+
+Was sind die neusten Entwicklungen bei Vorhersagen für das Energiesystem? Revolutioniert künstliche Intelligenz die Energieprognosen wirklich und welche Risiken sind damit verbunden? Welche Daten braucht es? Und wie können Energiewirtschaft, Forschung und KI-Expertinnen bestmöglich zusammenarbeiten damit die Energiewende gelingt?
+
+Diese Fragen standen im Zentrum des 1. IEA Task 51 Österreich-Workshops. 
+120 Vertreter:innen von mehr als 50 Unternehmen der österreichischen Energiebranche und Forschungslandschaft diskutierten mit und brachten in interaktiven Sessions ihre Perspektiven ein. 
+Internationale Gäste aus Deutschland, Italien und Dänemark rundeten die Teilnehmerschaft ab.
+
+Die Schirmherrhaft für den Workshop wurde von @BMK übernommen, gefördert wurde die Veranstaltung durch die FFG. 
+Für das BMK sprach Bernhard Fürnsinn und machte deutlich wie wichtig Impulse aus der Branche sind, um die besten Rahmenbedingungen für den Erneuerbarenausbau zu schaffen. 
+In Key Note Lectures schlug Erich Klock von der Austro Control die Brücke zwischen Flugsicherung und Energiewirtschaft, Bernhard Niedermoser von der GeoSphere Austria beleuchtete den KI-Paradigmenwechsel in der Wettervorhersage.
+
+Seinen Abschluss fand der Workshop durch die Podiumsdiskussion mit ausgewiesenen Expertinnen. 
+Zu Wort kamen Gernot Wolfram von Austrian Power Grid: „Neue Methodiken zur Prognose von Erzeugung und Netzlastflüssen sind essenziell, im Vordergrund unserer Arbeit steht aber zu jedem Zeitpunkt die Versorgungssicherheit“. 
+Johannes Paeck, von Burgenland Energie: „Die Branche entwickelt sich mit unglaublichem Tempo. Es muss uns gelingen, Ergebnisse aus der Forschung schneller in die Praxis zu bringen.“ 
+Corinna Möhrlen von @WEPROG: „Wir brauchen unkomplizierteren Zugang zu den Daten der Industrie, um Innovationen in der Prognose umzusetzen“.
+
+Ein großes Dankeschön an alle Teilnehmer:innen, Vortragenden und Panelist:innen sowie die hervorragende organisatorische Abwicklung im Hintergrund! 
+Gemeinsam haben wir einen Schritt in Richtung eines engeren Austausches zwischen Industrie, Forscher:innen und KI-Expertinnen gesetzt. 
+
+Wir freuen uns auf die weiteren geplanten Veranstaltungen 2025!
+
+
+
+## Workshop-Präsentationen
+
+::: {.download-all-button .text-center .mb-5}
+<a href="https://gitlab.com/api/v4/projects/ieatask51-austria/web/repository/archive.zip?sha=main&path=2024-11-06/presentations.zip" class="btn btn-large btn-primary">
+  <i class="fas fa-download"></i> Alle Präsentationen (ZIP)
+</a>
+:::
+
+
+### Eröffnung und Begrüßung
+:::: {.grid}
+::: {.g-col-9}
+- **Bernhard Fürnsinn** (BMK)  
+  *Referent Sektion VI - Abteilung Erneuerbare Energie Erzeugung*
+- **Bernhard Niedermoser** (GeoSphere Austria)  
+  *Bereichsleiter Wetter & Regionalstellen*
+- **Gernot Waldsam** (Austro Control Digital Services)  
+  *Geschäftsführer*
+- **Florian Mader** (WEB Windenergie)  
+  *Leiter Energiedaten & Innovation*
+:::
+::::
+
+### Vortragsteil I
+:::: {.grid}
+::: {.g-col-9}
+- **Lukas Strauss** (Austro Control Digital Services)  
+  *"Forecasting for the weather-driven energy system" – Thematische Einordnung und Ziele des Workshops*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/STRAUSS_IEA_Task_51_AT_Workshop_Vortrag_Strauss_v2.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Corinna Möhrlen** (WEPROG)  
+  *IEA Task 51: Überblick über die Aktivitäten und Ziele des internationalen Tasks*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/MOEHRLEN_IEAWindTask51-WienWorkshop_Overview_2024-11-06_final.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Irene Schicker** (GeoSphere Austria)  
+  *Themenschwerpunkte des Workshops und aktuelle österreichische Projekte*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/SCHICKER_IEAWind_Themenschwerpunkte_Projekte_Irene.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+### Key Notes
+:::: {.grid}
+::: {.g-col-9}
+- **Erich Klock** (Austro Control)  
+  *Weather-driven operations of critical infrastructure: Parallelen zwischen Flugsicherung und Energieversorgung*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/KLOCK_2024-10-03_Inno-Agenda_vSST.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Bernhard Niedermoser** (GeoSphere Austria)  
+  *The AI revolution in weather: Wie Daten und künstliche Intelligenz Erneuerbarenprognosen revolutionieren*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/NIEDERMOSER_20241104_KI_Präs_Niedermoser_v3.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+### Vortragsteil II
+:::: {.grid}
+::: {.g-col-9}
+- **Jakob Messner** (Austro Control Digital Services)  
+  *Ergebnisse aus IEA Task 51: „Recommended Practice for the Implementation of Renewable Energy Forecasting Solutions"*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/MESSNER_IEA_Task_51_Recommended_Practices_v1.1.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Florian Mader** (WEB Windenergie AG)  
+  *Rolle von Prognosen und Energiehandel im Tagesgeschäft eines Energiewendeunternehmens"*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/MADER_20241106_Rolle von Prognosen und Energiehandel im Tagesgeschäft eines Energiewendeunternehmens_FMA_Workshopdesign.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Nikolaus Umlauf, Rudolf Hakenschmid ** (Institut für Statistik, Universität Innsbruck)  
+  *Probabilistische Preisvorhersagen für den Elektrizitätshandel"*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/UMLAUF_HAKENSCHMID_IEA_Task51.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+### Interaktive Sessions
+:::: {.grid}
+::: {.g-col-9}
+- **Irene Schicker** (GeoSphere Austria)  
+  *Session 1: Von Ultrakurzfristvorhersagen zu saisonalen Vorhersagen*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/SCHICKER_Session_1_Ultrakurzfrist.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Corinna Möhrlen** (WEPROG)  
+  *Session 2: Von Ultrakurzfristvorhersagen zu saisonalen Vorhersagen*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/MOEHRLEN_Session_2_Extremevents_Corinna.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+:::: {.grid}
+::: {.g-col-9}
+- **Lukas Strauss** (Austro Control Digital Services)  
+  *Session 3: Data Science und künstliche Intelligenz für das Energiesystem*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/STRAUSS_IEA_Task_51_AT_Workshop_Session_3_KI_v2.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Anna-Maria Tilg** (GeoSphere Austria)  
+  *Session 4: Open Session*
+:::
+::: {.g-col-3}
+<a href="2024-11-06/TILG_Session4_OpenSession_AnnaMaria.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::

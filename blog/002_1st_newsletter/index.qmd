@@ -1,0 +1,113 @@
+---
+title: "1. Newsletter IEA Task 51 Austria"
+author: "Lukas Strauss"
+date: '2025-01-29'
+date-modified: last-modified
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+
+
+
+ormat:
+  html:
+    theme: quartz
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/header_ieat51.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 250px;
+      }
+      </style>
+editor: visual
+
+---
+
+# 1. Newsletter IEA Task 51 Austria
+
+In diesem Newsletter dürfen wir Ihnen aktuelle Informationen und Neuigkeiten rund um die Aktivitäten und Schwerpunkte des IEA Task 51 Österreich „Forecasting for the weather-driven energy system“ zukommen lassen. Wir hoffen sie sind für Sie von Interesse!
+
+Was finden Sie in diesem 1. Newsletter?
+
+1.	Rückblick auf den 1. IEA Task 51 Österreich-Workshop
+
+2.	Ergebnisse der Workshop-Session „Data Science und KI für das Energiesystem“
+
+3.	Aktuelle Projekte zu Lastprognosen und Extremwettervorhersagen
+
+4.	Ausblick auf 2025: „Extreme power system events“
+
+5.	So erreichen Sie uns – unsere Kontaktdaten
+
+Haben Sie Interesse von uns regelmäßig Neuigkeiten zu erhalten? (3-4 Mal pro Jahr) Schreiben Sie uns eine kurze Nachricht an <a href="mailto:iea51&#64;acds&#46;at">iea51&#64;acds&#46;at</a>.
+
+
+## (1) Rückblick auf den 1. IEA Task 51 Österreich-Workshop
+
+Am 6. November 2024 fand im NH Danube City Hotel in Wien der 1. IEA Task 51 Österreich-Workshop statt. 120 Teilnehmer:innen von mehr als 50 Unternehmen aus Energiewirtschaft und Forschung nahmen teil und diskutierten mit uns über Erneuerbarenprognosen, Extremereignisse, und die Bedeutung von Daten und künstlicher Intelligenz für das Energiesystem.
+
+- Eine Zusammenfassung inkl. allen Vortragsfolien finden Sie auf unserer Homepage. Ebenso auf LinkedIn, dort inkl. einiger Fotos.
+
+- Das von den Teilnehmer:innen zurückgemeldete Feedback zeigte großen Zuspruch zum Workshop und macht uns stolz – 89% der Teilnehmer:innen würden die Veranstaltung wieder besuchen. Einige kritische Stimmen forderten für den nächsten Workshop mehr Platz für Fragen und Diskussion und mehr Tiefe und Details. Dies nehmen wir ernst und lassen wir in die Planungen der nächsten Veranstaltung mit einfließen (mehr dazu unter (4)). 
+
+
+## (2) Ergebnisse der Workshop-Session „Data Science und KI für das Energiesystem“
+
+Künstliche Intelligenz – das allmächtige Werkzeug um die Energiewende zu beschleunigen? Überall wird von KI gesprochen – auch bei uns beim 1. IEA Task 51 Österreich-Workshop.
+
+Revolutioniert KI die Erneuerbarenprognosen und die Stromnetzsteuerung wirklich? Was sind die Risiken und Fallstricke? Wie können wir die „KI-Wende in der Energiewende“ meistern? Auf diese Fragen warfen wir gemeinsam mit unseren Workshop-Teilnehmer:innen einen ganz genauen – und kritischen – Blick. Lukas Strauss fasst die Ergebnisse in aktuellen Beiträgen auf LinkedIn und auf unserer Homepage zusammen. Zu finden als Post auf LinkedIn und hier [Homepage-Blog](https://iea-task-51-austria.github.io/blog/001_ai_session_recap/){}.
+
+Was sind Ihre Ansichten und Herausforderungen zu diesem Thema – jenseits des allgegenwärtigen Hypes? Lassen Sie von sich hören! Gerne steuern wir unsere Expertise zu Ihren Vorhaben bei!
+
+
+## (3) Aktuelle Projekte zu Lastprognosen und Extremwettervorhersagen
+Unsere Forschungsprojekte und Produktentwicklungen stellen neben den jährlichen Workshops den Kern unserer Aktivitäten zum „Forecasting for the weather-driven energy system“ dar. Auf unserer [Homepage](https://iea-task-51-austria.github.io/projects/){} finden Sie ab sofort eine Liste einiger unserer aktuellen Projekte zu Erneuerbarenprognosen und Extremereignissen.
+Zwei Projekte seien an dieser Stelle herausgegriffen:
+
+- **LAVIE – Load Forecast for Vienna Airport**
+(Austro Control Digital Services, Flughafen Wien)
+Der rasante PV-Ausbau und die zunehmenden Einflüsse des Klimawandels bringen für die Stromnetze sowie große Erzeuger-Verbraucher riesige Herausforderungen bei der Prognose komplexer Lastgänge mit sich. Im Projekt LAVIE wurden innovative Lastprognosemodelle entwickelt, welche eine Reduktion der Prognosefehler und damit der Ausgleichsenergiekosten von bis zu 25% gegenüber konventionellen Modellen ermöglichen.
+
+- **Destination Earth on-demand Extremes Digital Twin**
+(GeoSphere Austria und europäische Wetterdienste)
+The DE330 project focuses on providing on-demand forecasts on sub-km and sub-hourly resolutions for extreme meteorological events such as storms, heavy precipitation, and more. Its Renewable Energy impact sector model component provides targeted wind and solar power predictions for such cases using the sub-km and sub-hourly data, with indicators for up/downramping or heat events. A key point is the detection and triggering of extreme events affecting the wind and solar power production.
+
+
+## (4) Ausblick auf 2025: „Extreme power system events“
+Das Jahr 2025 steht für den IEA Task 51 im Zeichen der „Weather-driven extreme power system events“. Zur Frage stehen Impakt, Prognose und Mitigierung von wetterbedingte Ereignissen mit extremem Einfluss auf Erzeugung, Transport und Verbrauch im Energiesystem.
+
+- Im April findet der Internationale Workshop „Extremes in the Power System“ in Boulder, Colorado statt. Aktuell wird daran gearbeitet, den Workshop in hybrider Form anzubieten, sodass er online mitverfolgt werden kann. Die [Registrierung](https://iea-wind.org/2025/01/17/iea-wind-task-51-workshop-on-extremes-in-the-power-system/){} öffnet in Kürze. 
+
+- Zur Intensivierung der Auseinandersetzung mit Extremereignissen im österreichischen Energiesystem schreiben wir den „BSc Thesis Award 2025“ zu „Weather-induced extreme power system events“ aus. Alle Studierenden an österreichischen Universitäten und Fachhochschulen sind aufgerufen ihre Arbeiten zu diesem Thema einzureichen. Die offizielle Ankündigung finden Sie [hier](https://iea-task-51-austria.github.io/bsc_thesis_award/){}. Wir bitten Sie um Verbreitung in Ihrem Netzwerk, evtl. an Kolleg:innen in berufsbegleitenden Weiterbildungen!
+
+- Nicht zuletzt wird der 2. IEA Task 51 Österreich-Workshop im Herbst 2025 ganz im Zeichen der Extremereignisse stehen. Wir werden insbesondere die Praktiker:innen unter Ihnen aufrufen, von außergewöhnlichen wetterbedingten Einflüssen in Ihrem Arbeitsgebiet zu berichten, um Bedarfe zu erfassen und Lösungen anzubieten. Das „Save the Date“ zum 2. Workshop folgt!
+
+
+## (5) So erreichen Sie uns – unsere Kontaktdaten
+IEA Task 51 Österreich setzt sich zum Ziel ein österreichisches Forum für den Austausch zu drängenden Themen der Energiesystemprognose und Extremwetterereignissen zu bilden. In diesem Sinne freuen wir uns über Ihre Rückmeldungen, Einblicke in Ihre Bedarfe und Rückfragen zu laufenden Projekten.
+
+So erreichen Sie uns:
+
+- Dr. Irene Schicker, GeoSphere Austria, <a href="mailto:irene&#46;schicker&#64;geosphere&#46;at">irene&#46;schicker&#64;geosphere&#46;at</a>
+
+- Dr. Lukas Strauss, Austro Control Digital Services GmbH, <a href="mailto:lukas&#46;strauss&#64;acds&#46;at">lukas&#46;strauss&#64;acds&#46;at</a>
+
+- Dipl.-Ing. Florian Mader, WEB Windenergie AG, <a href="mailto:florian&#46;mader&#64;web&#46;energy">florian&#46;mader&#64;web&#46;energy</a>
+
+<br>
+Haben Sie Interesse von uns regelmäßig Neuigkeiten zu erhalten? (3-4 Mal pro Jahr) Schreiben Sie uns eine kurze Nachricht an <a href="mailto:iea51&#64;acds&#46;at">iea51&#64;acds&#46;at</a>.

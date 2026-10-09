@@ -1,0 +1,33 @@
+---
+title: "About & Team"
+about:
+  template: broadside
+  image: imgs/team/groupfigure2.jpg
+  links:
+    - icon: globe
+      text: project website
+      href: https://energyprotect.gitlab.geosphere.at/web/
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/company/101174890/admin/feed/posts/
+    - icon: github
+      text: Github
+      href: https://github.com/Energy-and-Climate
+format:
+  html:
+    theme: quartz
+---
+
+This is the website for the ACRP project **EnergyProtect**, a collaborative project of GeoSphere Austria and AIT Austrian Institute of Technology (AIT hereafter).
+
+We are a team of enthusiasts, meteorologists, machine learning users, etc. of GeoSphere Austria and AIT. 
+
+We are (left to right): 
+Sebastian Lehner (GeoSphere Austria), Kristofer Hasel (AIT), Marianne Bügelmayer-Blaschek (AIT), Jasmin Lampert (AIT), Annemarie Lexer (GeoSphere Austria), Theresa Schellander-Gorgas (GeoSphere Austria), Pascal Thiele (AIT), Irene Schicker (GeoSphere Austria, project lead), Axel Weißenfeld (AIT)
+
+Not in this photo: Petrina Papazek and Raphael Spiekermann (GeoSphere Austria)
+
+As of Spring 2024, this website is currently under development.
+
+
+

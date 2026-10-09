@@ -1,0 +1,61 @@
+---
+title: " "
+format:
+  html:
+    theme: quartz
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/header_workshop_optimized.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 500px;
+      }
+      </style>
+#bibliography: "references.bib"
+editor: visual
+---
+
+
+# Team
+
+
+GeoSphere Austria, Austro Control Digital Services und WEB Windenergie nehmen für Österreich am Wind TCP Task 51 "Forecasting for the weather-driven energy system" teil. Durch unsere breite Expertise zu Wetter, Daten, künstlicher Intelligenz und der Anwenderperspektive sind wir in der Lage einen bedeutenden österreichischen Beitrag zu den internationalen Anstrengungen von IEA Task 51 zu leisten und diese mit einem breiten Publikum an österreichischen Branchenexpert:innen zu diskutieren.
+
+
+**GeoSphere Austria** ist im Bereich der Wettervorhersage in Österreich eine zentrale Institution. Sie zeichnet sie sich durch unzählige europäische und nationale Projekte im Bereich der „Big Weather and Climate Data“ und neuartigen KI-Methoden aus. Ein relevantes aktuelles Projekt ist: Destination Earth Digital Twin Extreme Weather / Arbeitspaket „Erneuerbare Energien“ (DE_330).
+
+*	**Dr. Irene Schicker**: Meteorologin mit Schwerpunkt erneuerbare Energien und Machine Learning. Leitung nationaler Projekte (Extremereignisse, erneuerbare Energien, AI), Leitung des AP “Renewable Energy” im Projekt “Destination Earth Digital Twin Extremes”.
+
+*	**Anna-Maria Tilg, PhD**: Meteorologin mit Forschungsfokus auf Klimavariabilität und deren Auswirkungen auf verschiedene Anwendungsbereiche, insbes. auf erneuerbare Energien. Mitarbeit in  nationa-len/internationalen Windenergie-Projekten.
+
+
+**Austro Control Digital Services GmbH** ist Spezialistin für die Entwicklung sicherer Softwarelösungen. Besondere Expertise liegt im Bereich des Extremwetterimpakts auf die kritische Energieinfrastruktur vor. ACDS bringt KI-Algorithmen für die Energiewirtschaft nach den Sicherheitsvorgaben des neuen EU AI Act zum Einsatz. Ein relevantes aktuelles Projekt ist: PROFICIENT//WIND: Echtzeitdetektion und -prognose von Erzeugungsanomalien der österreichischen Windkraft.
+
+*	**Dr. Lukas Strauss**: Physiker und Data Scientist mit >10 Jahren Erfahrung in erneuerbaren Energien, Me-teorologie und Extremereignissen. Entwickler von Software an der Schnittstelle von Wetter, KI und si-cherheitskritischen Anwendungen. Leiter zahlreicher Projekte für die kritische Energieinfrastruktur.
+
+*	**Jakob Messner, PhD**: Data Scientist und Meteorologe mit >10 Jahren Erfahrung  im Querschnitt erneu-erbare Energien, Wetter und Machine Learning. Leitung von zahlreichen Forschungsprojekten, u.a. Leitung des AP “Power and Uncertainty Forecasting“ im IEA Wind Task 36 (Vorgänger von Task 51).
+
+*	**Mag. Alexander Niederl**: Meteorologe mit langjähriger Erfahrung im operativen Betrieb.  Produkt- & Projektmanager für Luftfahrt und Energiewirtschaft. Als Requirements Engineer für die Erfassung von Bedarfen verschiedener Kundensegmente verantwortlich.
+
+
+**WEB Windenergie AG**: ist ein Energiewendeunternehmen mit Standorten in acht Ländern auf zwei Kontinenten. Sein Anlagenportfolio umfasst 262 Windkraftanlagen, 47 Photovoltaikanlagen und 2 Kleinwasserkraftwerke bei einer Gesamtkapazität von 613 MW. WEB bringt in Task 51 die Nutzer:innensicht von Vorhersagen insbes. für neue Konzepte der dezentralen Energieversorgung ein. Relevante aktuelle Projekte sind: AI4Wind, Wind4Future.
+
+* **DI Florian Mader**: Elektrotechniker mit Schwerpunkt Energieökonomie, seit 9 Jahren in Datenanalyse und Entwicklung tätig; mehrere Forschungsprojekte. Als Leiter der Abteilung “Energiedatenmanage-ment und Innovation” vertraut mit dem österr. Umfeld am Elektrizitätsmarkt, Marktprozessen sowie dem praktischen Einsatz von Prognosen.
+
+
+
+
+
+
+

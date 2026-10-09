@@ -1,0 +1,85 @@
+---
+#title: "Workshops"
+format:
+  html:
+    theme: quartz
+    link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
+    css: css/styles.css
+resources: movie.mp4 
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/header_workshop.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 300px;
+      }
+      </style>
+editor: visual
+
+#info: https://github.com/andrewheiss/ath-quarto/blob/main/cv/index.qmd
+---
+
+
+# 2. IEA Task 51 Österreich-Workshop am 11.11.2025
+
+<iframe src="IEAT51_AT_Zweiter_Workshop_Extremereignisse.pdf" width="100%" height="600px">
+</iframe>
+
+
+Das **Energiesystem der Zukunft ist ein vom Wetter getriebenes**. Bereits das heutige, durch einen immer höheren Erneuerbarenanteil gekennzeichnete Energiesystem weist durch die **hohe Volatilität** von Erzeugung und Verbrauch **Vulnerabilitäten** auf, die **zeitweise zu hohen Ausgleichskosten führen und die Versorgungssicherheit in Frage stellen**.
+
+
+GeoSphere Austria, Austro Control Digital Services GmbH und WEB Windenergie AG veranstalten am **11. November 2025** im Austro Tower Veranstaltungszentrum, 1030 Wien den **2. IEA Task 51 Österreich-Workshop "Wetterbedingte Extremereignisse im Energiesystem // Erkennen, Verstehen, Vorhersehen".
+**.
+
+**Die Veranstaltung richtet sich an:**
+
+*	**Expert:innen** der österreichischen Energieversorger, Energiehändler, Übertragungs- und Verteilnetzbetreiber und Energieagenturen
+
+*	**Forscher:innen und Studierende** an den Universitäten und Forschungseinrichtungen
+
+Weitere Informationen, insbes. dem Programm zum Workshop finden Sie weiter unten.
+
+
+## Anmeldung zum Workshop 2025
+
+**Die Anmeldung zur Workshop-Teilnahme ist noch bis Di, 28.10.2025 möglich.**
+
+::: {.blue-underline .center-text}
+[**Weiter zur Anmeldung hier**](https://forms.cloud.microsoft/e/7SetyYSpZS ){.external target="_blank"}
+:::
+
+## Workshop-Programm
+<!-- Button for downloading the PDF -->
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2025_ankuendigung/IEAT51AT_Workshop_2025_Programm.pdf" download="IEAT51AT_Workshop_2025_Programm.pdf" class="btn btn-primary" role="button">
+  Download Programm
+</a>
+
+<iframe src="IEAT51AT_Workshop_2025_Programm.pdf" width="100%" height="600px">
+</iframe>
+
+## Rückblick auf den Workshop 2024
+
+**Einen Rückblick auf den letztjährigen Workshop** inkl. der Ergebnisse daraus finden Sie auf unserem
+[**Projekt-Blog**](https://iea-task-51-austria.github.io/blog.html )
+
+
+
+
+
+
+
+

@@ -1,0 +1,152 @@
+/* css styles */
+
+.quarto-title-banner {
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
+
+main {
+  margin-top: 0;
+}
+
+#quarto-content > *  {
+  padding-top: 0;
+}
+
+/*.header-image {
+  background-image: url('../imgs/Background.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 80vh; 
+  width: 100vw; 
+  position: absolute; 
+  top: 0;
+  left: 0; 
+  z-index: 1000; 
+} */
+
+
+@media (max-width: 768px) {
+  .toc {
+      top: 90vh;  /* Adjust according to the mobile view */
+  }
+}
+
+
+.main-content {
+  padding-top: 78vh; /* Adjust this value to match the height of your header image */
+}
+
+
+.fa-users {
+  color: rgb(8, 8, 46);      /* Sets the color of the icon to blue */
+  font-weight: bold; /* Makes the icon bold */
+}
+
+.center-text {
+  text-align: center;
+}
+
+.blue-text {
+  color: rgb(212, 36, 168);
+}
+
+
+.header-image {
+  max-width: 100%;
+  max-height: 100vh;
+  height: auto;
+  width: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.header-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+  object-position: center center; /* Centers the image */
+}
+
+.highlight-box {
+  border: 2px solid rgb(62, 62, 226); /* Blue border */
+  border-radius: 10px;        /* Rounded corners */
+  box-shadow: 5px 5px 10px rgba(63, 61, 61, 0.1); /* Subtle shadow */
+  padding: 20px;              /* Padding inside the box */
+  margin: 20px 0;             /* Space around the box */
+  background-color: #f9f9f9;  /* Light background color */
+}
+
+.colored-box-orange {
+  border: 2px solid rgba(4, 85, 47, 0.245); /* Orange border */
+  border-radius: 4px;        /* Rounded corners */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  padding: 20px;              /* Padding inside the box */
+  margin: 20px 0;             /* Space around the box */
+  background-color: rgba(2, 124, 57, 0.245);  /* Light background color */
+}
+
+/* used to create light gray div on landing page*/
+.light-orange-div { 
+  background-color: rgba(72, 241, 115, 0.245);
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 10%; 
+  padding-left: 10%; 
+}
+
+/* blue text */
+.hidden-text { 
+  color: rgb(255, 255, 255);
+  font-size: 1px;
+}
+
+/* used to create stat boxes on landing page */
+.stat-box{
+  border: 2px solid rgb(7, 211, 150); /* Blue border */
+  border-radius: 10px;        /* Rounded corners */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  padding: 20px;              /* Padding inside the box */
+  margin: 20px 0;             /* Space around the box */
+  background-color: rgba(2, 48, 26, 0.245);  /* Light background color */
+}
+
+/* Style for a general horizontal rule */
+.hr {
+  border: none;
+  height: 2px;
+  background-color: rgba(22, 22, 173, 0.245); /* Blue color */
+  margin: 20px 0; /* Space above and below the line */
+}
+
+/* Alternatively, a specific class for different colored lines */
+.colored-line {
+  border: none;
+  height: 3px;
+  background-color: rgba(2, 61, 22, 0.568); /* Orange color, for example */
+  margin: 20px 0; /* Customizable margin */
+}
+
+/* used to create light gray div on landing page*/
+.light-gray-div { 
+  background-color: #EEEEEE;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 10%; 
+  padding-left: 10%; 
+}
+
+/* see https://stackoverflow.com/questions/1734618/how-to-increase-the-gap-between-text-and-underlining-in-css */
+.blue-underline { 
+  text-decoration: underline #025463;
+  text-underline-offset: 10px; /* https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset */
+  text-decoration-thickness: 4px;
+}
+

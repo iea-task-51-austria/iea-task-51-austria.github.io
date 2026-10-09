@@ -1,0 +1,38 @@
+---
+title: "Aim"
+format:
+  html:
+    theme: quartz
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/aim.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 300px;
+      }
+      </style>
+#bibliography: "references.bib"
+editor: visual
+---
+
+::: column-margin
+```{r, echo=FALSE}
+knitr::include_graphics("../imgs/logo_energyprotect_transparent.png")
+```
+:::
+
+
+# Aim
+
+The aim of EnergyProtect is to provide useful information for collaborators and users for current and future risks of vulnerable renewable infrastructure to adverse weather and expected effects of climate change. 

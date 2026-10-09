@@ -1,0 +1,37 @@
+---
+title: "Blog"
+listing:
+  contents: blog
+  sort: "date desc"
+  type: table
+  image-placeholder: "imgs/ieawind_icon_austria.jpg"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(imgs/header_ieat51.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 300px;
+      }
+      </style>
+editor: visual
+---
+
+Blog und Infoseite des IEA Task 51 Austria.
+
+Haben Sie Interesse von uns regelmäßig Neuigkeiten zu erhalten? (3-4 Mal pro Jahr) Schreiben Sie uns eine kurze Nachricht an <a href="mailto:iea51&#64;acds&#46;at">iea51&#64;acds&#46;at</a>.

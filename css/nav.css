@@ -1,0 +1,41 @@
+/* css styles */
+.dropdown-menu {
+  background-color: rgba(5, 88, 61, 0.7)
+}
+
+.dropdown-menu a {
+  color: white;
+}
+
+.navbar {
+  background-color: #024b2f;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+
+/* change font color to white */
+.navbar a {
+  color: white;
+}
+
+.navbar a:hover,
+.navbar a:focus,
+.navbar a:active {
+  color: white;
+}
+
+/* Ensure active tab is visible with good contrast */
+.navbar .nav-link.active,
+.navbar .nav-item .active,
+.navbar .nav-item:focus,
+.navbar .nav-item:active {
+    background-color: #024b2f !important;  /* Keep the navbar's dark green background */
+    color: white !important; /* Ensure text stays white */
+    border-bottom: 3px solid #ffffff !important; /* Optional: White underline for clarity */
+}
+
+/* Improve contrast on hover */
+.navbar .nav-link:hover {
+    background-color: #036642 !important; /* Slightly lighter green */
+    color: white !important;
+}

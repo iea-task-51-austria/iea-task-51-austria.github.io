@@ -1,0 +1,109 @@
+---
+title: "2. IEA Task 51 Österreich-Workshop"
+author: "Irene Schicker, Lukas Strauss"
+date: "2025-11-12"
+date-modified: last-modified
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+format:
+  html:
+    theme: quartz
+    link-external-icon: true
+    link-external-newwindow: true
+    css: ../css/styles.css
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta { color: #ffffff; }
+      .quarto-title-block .quarto-title-banner { height: 0; }
+      #title-block-header {
+        background-image: url(images/01_plenum.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 250px;
+      }
+      </style>
+
+  - text: |
+      <style>
+      /* responsive gallery grid */
+      #impressions {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 12px;
+        margin-top: .5rem;
+      }
+      /* tidy figures */
+      #impressions figure { margin: 0; }
+      /* uniform thumbnails: 16:9 crop, rounded corners, subtle shadow */
+      #impressions img {
+        width: 100%;
+        aspect-ratio: 16/9;
+        object-fit: cover;
+        border-radius: 10px;
+        box-shadow: 0 2px 12px rgba(0,0,0,.08);
+      }
+      #impressions figcaption {
+        font-size: .9rem;
+        color: #6b7280; /* gray-500 */
+        margin-top: .35rem;
+      }
+      </style>
+editor: visual
+---
+
+# "IEA Task 51 / Forecasting for the weather-driven energy system" – 2. Österreich-Workshop
+
+Welche Auswirkungen hat **Extremwetter** auf das Energiesystem? Welche Vulnerabilitäten bringt die hohe **Volatilität** der Erneuerbaren heute und unter **Klimawandel** mit sich? Und wie können Energiewirtschaft, Forschung und Wetterexpert:innen **resilientere Energiesysteme** gestalten?
+
+Diese Fragen standen im Mittelpunkt des 2. #IEA Task 51 Österreich-Workshops am **11. November 2025** im Austro Tower in Wien. **125 Expert:innen** aus mehr als 60 Unternehmen, Forschungseinrichtungen und Behörden diskutierten – von **Prognosefehlern** und **Grenzen der Vorhersagbarkeit** über **Warnsysteme** und **operationelle Entscheidungsunterstützung** bis hin zu **Digitalen Zwillingen**, **Nowcasting** und **KI** für Netze, Märkte und Erzeugung.
+
+**Key Notes (Auswahl):**
+
+- Bernhard Niedermoser (GeoSphere Austria): *Extremwetter im Alpenraum – Impakt auf Erzeugung & Transport*  
+- Philipp Piber (Austro Control): *Extremwetterauswirkungen auf den Flugverkehr*  
+- Horst Brandlmaier (OeMAG): *Wetterbedingte Extremereignisse auf den Energiemärkten*
+
+**Präsentationen und Materialien (Zenodo, DOI):**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17627028.svg)](https://zenodo.org/records/17627028)
+Alle Präsentationen (Einzel-PDFs & ZIP) sind **langfristig** archiviert:  
+<https://doi.org/10.5281/zenodo.17627028>
+
+
+**Und auch [**hier**](https://iea-task-51-austria.github.io/workshops/workshop_2025_rueckblick ) abrufbar**
+
+
+::: {.download-all-button .text-center .mb-5 .mt-4}
+<a href="https://zenodo.org/records/17627028/files/ALL_PRESENTATIONS.zip?download=1" class="btn btn-large btn-primary">
+  <i class="fas fa-download"></i> Alle Präsentationen (ZIP)
+</a>
+:::
+
+## Impressionen
+
+::: {#impressions lightbox="auto"}
+![](images/01_plenum.jpg){fig-alt="Blick ins Plenum während der Eröffnung" fig-cap="Plenum und Eröffnung · Foto: (c) Philipp Stambera, FFG "}
+![](images/02_greetings.jpg){fig-alt="Begrüßung der Teilnehmer" fig-cap="Begrüßung · Foto: (c) Philipp Stambera, FFG"}
+![](images/03_auditorium.jpg){fig-alt="Teilnehmer" fig-cap="Teilnehmer · Foto: (c) Philipp Stambera, FFG"}
+![](images/04_participants.jpg){fig-alt="Teilnehmer" fig-cap="ITeilnehmer · Foto: (c) Philipp Stambera, FFG"}
+![](images/05_presenting.jpg){fig-alt="Präsentieren" fig-cap="Präsentieren · Foto: (c) Philipp Stambera, FFG"}
+![](images/06_questions.jpg){fig-alt="Fragen" fig-cap="Fragen · Foto: (c) Philipp Stambera, FFG"}
+![](images/07_discussions.jpg){fig-alt="Networking" fig-cap="Networking · Foto: (c) Philipp Stambera, FFG"}
+:::
+
+## Danke & Ausblick
+
+Ein großes **Danke** an alle Vortragenden, Diskutant:innen und das Organisations-Team von GeoSphere Austria & Austro Control Digital Services. Wir freuen uns auf den weiteren Austausch 2026 und auf nächste Schritte zur **Resilienz** des wettergetriebenen Energiesystems!
+
+---
+
+**Archiv & Zitation:**  
+- Zenodo (DOI): <https://doi.org/10.5281/zenodo.17627028>  
+- Lizenz: CC BY 4.0 – © 2025 GeoSphere Austria, Austro Control Digital Services und Mitwirkende  
+  *Teilen & Anpassen erlaubt – bitte Autor:innen und dieses Archiv nennen.*

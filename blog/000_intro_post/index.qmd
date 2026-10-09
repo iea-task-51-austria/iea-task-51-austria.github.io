@@ -1,0 +1,50 @@
+---
+title: "Kick off"
+author: "Irene Schicker"
+date: '2023-12-01'
+date-modified: last-modified
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+bibliography: [references.bib]
+
+
+
+format:
+  html:
+    theme: quartz
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(images/blog.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 250px;
+      }
+      </style>
+#bibliography: "references.bib"
+editor: visual
+
+---
+
+This is a retrospective contribution summarizing our kick-off.
+
+Last November, the EnergyProtect kick-off was held at GeoSphere Austria. Participants were the project members of AIT and GeoSphere Austria who discussed in a work lunch meeting the next steps in EnergyProtect, workflow and responibilities, and more.
+
+
+![](images/groupfigure2.jpg)
+
+A stakeholder workshop will take place in 2024.

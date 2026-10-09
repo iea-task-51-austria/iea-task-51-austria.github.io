@@ -1,0 +1,251 @@
+---
+title: "IEA Task 51 Österreich-Workshop Rückblick 2025"
+format:
+  html:
+    theme: quartz
+    link-external-icon: true
+    link-external-newwindow: true
+    css: ../css/styles.css
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta { color: #ffffff; }
+      .quarto-title-block .quarto-title-banner { height: 0; }
+      #title-block-header {
+        background-image: url(01_plenum.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 250px;
+      }
+      </style>
+editor: visual
+---
+
+# IEA Task 51 Österreich-Workshop Rückblick 2025
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17627028.svg)](https://zenodo.org/records/17627028)
+
+## Highlights & Ergebnisse
+
+⚡ **"IEA Task 51 / Forecasting for the weather-driven energy system" – 2. Österreich-Workshop (11. November 2025, Austro Tower, Wien)** ⚡
+
+Die zentrale Frage: Wie begegnen wir wetterbedingten **Extremereignissen** im Energiesystem – von Erzeugung über Markt bis Netzbetrieb? **125 Expert:innen** aus Energiebranche, Netz, Forschung und Behörden diskutierten zu Grenzen der Vorhersagbarkeit, Warnsystemen, Digitalen Zwillingen, Nowcasting & KI sowie operationeller Entscheidungsunterstützung.
+
+**Key Notes:**  
+- Bernhard Niedermoser (GeoSphere Austria): *Extremwetter im Alpenraum – Impakt auf Erzeugung & Transport*  
+- Philipp Piber (Austro Control): *Extremwetter & Flugverkehr – Spezialprognosen in der Anwendung*  
+- Horst Brandlmaier (OeMAG): *Wetterbedingte Extremereignisse auf den Energiemärkten*
+
+**Danke** an alle Vortragenden und Teilnehmenden – und an die Organisations-Teams aus GeoSphere Austria & Austro Control Digital Services.
+
+<!-- Button for downloading the PDF -->
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2025_ankuendigung/IEAT51AT_Workshop_2025_Programm.pdf" download="IEAT51AT_Workshop_2025_Programm.pdf" class="btn btn-primary" role="button">
+  Download Workshop-Programm
+</a>
+
+::: {.download-all-button .text-center .mb-5 .mt-4}
+<a href="https://zenodo.org/records/17627028/files/ALL_PRESENTATIONS.zip?download=1" class="btn btn-large btn-primary">
+  <i class="fas fa-download"></i> Alle Präsentationen (ZIP) – Zenodo
+</a>
+:::
+
+> Alle Materialien sind langfristig über Zenodo archiviert:  
+> **DOI:** <https://doi.org/10.5281/zenodo.17627028>  
+> **Lizenz:** CC BY 4.0
+
+## Workshop-Präsentationen (Einzeldownloads via Zenodo)
+
+### Eröffnung / Einordnung
+:::: {.grid}
+::: {.g-col-9}
+- **Titelfolie**  
+  *IEA Wind TCP Task 51 – 2. Österreich-Workshop*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/00_IEAT51AT_WS2025_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Lukas Strauss** (Austro Control Digital Services)  
+  *Thematische Einordnung und Ziele des Workshops*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/01_IEAT51AT_WS2025_Strauss.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Irene Schicker** (GeoSphere Austria)  
+  *Task 51 AT – Aktivitäten & Überblick*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/02_IEAT51AT_WS2025_Schicker.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Florian Mader** (WEB Windenergie)  
+  *Rolle von Prognosen & Energiehandel*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/03_IEAT51AT_WS2025_Mader.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+### Key Notes
+:::: {.grid}
+::: {.g-col-9}
+- **Bernhard Niedermoser** (GeoSphere Austria)  
+  *Extremwetter im Alpenraum – Impakt auf Erzeugung & Transport*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/04_IEAT51AT_WS2025_Niedermoser.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Philipp Piber** (Austro Control)  
+  *Extremwetterauswirkungen auf den Flugverkehr*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/05_IEAT51AT_WS2025_Piber.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Horst Brandlmaier** (OeMAG)  
+  *Wetterbedingte Extremereignisse auf den Energiemärkten*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/06_IEAT51AT_WS2025_Brandlmaier.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+### Kurzvorträge – Energiewirtschaft
+:::: {.grid}
+::: {.g-col-9}
+- **Andreas Nehls** (Burgenland Energie Trading)  
+  *Nowcasting im Energiehandel*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/07_IEAT51AT_WS2025_Nehls.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Andreas Forster** (oekostrom AG)  
+  *Herausforderung Stromvermarktung Erneuerbare*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/08_IEAT51AT_WS2025_Forster.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Anna-Maria Tilg** (Austrian Power Grid)  
+  *Extrembedingungen im Übertragungsnetz*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/09_IEAT51AT_WS2025_Tilg.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Bernhard Spitzer** (Energienetze Steiermark)  
+  *Erfahrungen und Herausforderungen im Verteilnetz*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/10_IEAT51AT_WS2025_Spitzer.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Robert Grassinger** (ÖBB Infrastruktur)  
+  *Wetterinformationssystem WIIS bei den ÖBB*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/11_IEAT51AT_WS2025_Grassinger.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Philipp Geier** (Energie Steiermark Green Power)  
+  *STYREX – Warnsystem vor Extremwetterauswirkungen*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/12_IEAT51AT_WS2025_Geier.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+### Kurzvorträge – Forschung & Wetter
+:::: {.grid}
+::: {.g-col-9}
+- **Laura Essl** (DCNA)  
+  *Wissens- & Technologietransfer für Krisen- und Katastrophenmanagement*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/13_IEAT51AT_WS2025_Essl.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Irene Schicker** (GeoSphere Austria)  
+  *Digitale Zwillinge für Erneuerbare – On-Demand-Detektion & hochaufgelöste Prognosen*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/14_IEAT51AT_WS2025_Schicker.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Clemens Weiß** (ACDS)  
+  *LAVIE – Optimierung der Lastprognose des Flughafen Wien*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/15_IEAT51AT_WS2025_Weiß.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Anton Fuxjäger & Stefan Zahlner** (Enlite AI)  
+  *Applying Reinforcement Learning to Power Grids*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/16_IEAT51AT_WS2025_Fuxjäger_Zahlner.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Michael Kernitzkyi** (JOANNEUM RESEARCH)  
+  *Selbstlernende Algorithmen zur Lastprognose*
+:::
+::: {.g-col-3}
+<a href="https://zenodo.org/records/17627028/files/17_IEAT51AT_WS2025_Kernitzkyi.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+---
+
+## Archiv & Zitation
+
+- **Zenodo (DOI):** <https://doi.org/10.5281/zenodo.17605819>  
+- **Lizenz:** CC BY 4.0 – © 2025 GeoSphere Austria, Austro Control Digital Services und Mitwirkende  
+  *Sie dürfen die Materialien teilen und anpassen, sofern Sie die ursprünglichen Autor:innen und dieses Archiv nennen.*
+

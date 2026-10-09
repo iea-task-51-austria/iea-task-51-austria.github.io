@@ -1,0 +1,65 @@
+---
+title: "Publikationen"
+format:
+  html:
+    theme: quartz
+    link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
+    css: css/styles.css
+resources: movie.mp4
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/publications_2.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 300px;
+      }
+      .pub-card {
+        background-color: #f9f9f9;
+        border-left: 5px solid #337ab7;
+        padding: 1em;
+        margin-bottom: 1em;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      }
+      </style>
+editor: visual
+---
+
+## Journalpublikationen
+
+### In Vorbereitung
+
+::: {.pub-card}
+*Schicker, I., Möhrlen, C., Tilg, A.M., Strauss, L., Mader, F.*, 2025: **Forecasting for the Weather-Driven Energy System: Key Findings from the First Austrian IEA Wind Task 51 Workshop**  
+_In Vorbereitung_  
+:::
+
+<br>
+
+## Konferenzpräsentationen und -poster
+
+### 2025
+
+::: {.pub-card}
+**EGU 2025**  
+*The IEA Wind TCP Task 51 Austria – Stakeholder interaction and priorities for forecasts*  
+Tilg, A.-M., Schicker, I., Strauss, L., Mader, F., Niederl, A., Messner, J., Möhrlen, C.  
+_EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025_  
+📄 [DOI: 10.5194/egusphere-egu25-15415](https://doi.org/10.5194/egusphere-egu25-15415)  
+📥 [Download (PDF)](Tilg_Schicker_Poster_EGU_2025.pdf)
+:::
+
+
+

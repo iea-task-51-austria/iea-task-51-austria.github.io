@@ -1,0 +1,115 @@
+---
+title: "Rückblick auf Session 'Data Science und KI für das Energiesystem'"
+author: "Lukas Strauss"
+date: '2025-01-29'
+date-modified: last-modified
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+
+
+
+ormat:
+  html:
+    theme: quartz
+
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(../imgs/header_ieat51.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 250px;
+      }
+      </style>
+editor: visual
+
+---
+
+# Data Science and artificial intelligence for the power system
+
+AI: The all-powerful force accelerating the energy transition?! Everyone's talking about AI, everywhere, every time. We were too, on 6 November, at the 1st IEA Task 51 Austria Workshop on "Forecasting for the weather-driven energy system".
+
+Is AI actually revolutionizing energy predictions and power system control? What are its inherent risks and pitfalls? How to best navigate the "AI transition in the energy transition"? Together with 120 experts from more than 50 companies of the Austrian energy sector and research landscape, we took a close look ... and kept a critical stance.
+
+Gernot Waldsam from Austro Control Digital Services GmbH laid the groundwork for intense discussions in his introductory remarks. bernhard niedermoser from GeoSphere Austria elaborated on the AI revolution in weather prediction (a real one!) in his key note lecture. Erich Klock bridged the gap to the aviation sector, where AI regulation by EASA - European Union Aviation Safety Agency appears to be around the corner. Irene Schicker gave an overview of Austrian energy forecasting projects, all of which involve ML & AI algorithms in some form. I took participants on a brief journey illustrating the risks of increased AI penetration into decision making in the energy sector. 
+
+The key insights and expert assessments? 
+- Energy predictions are becoming available at unprecedented accuracy, speed, and in (overwhelming) abundance.
+- As for AI integration into the power system, we must not get ahead of ourselves. Start small, do the required (data & digitalization) homework, find safe niches, work with expert partners.
+- Finally, for AI algorithms to prevail in critical environments, they will need to undergo in-depth assessments of its trustworthiness, stability, AI-human interaction, and compliance, ensuring security of energy supply at all times.
+
+For more, see below!
+
+Many thanks for your insights and contributions Corinna Möhrlen, Gernot Wolfram, Johannes Paeck, Daniel Leukauf, Lukas Kugler, Christian Bär, Klaus Stadlbacher, Kaiser Alexander, Wolfgang Rytina, Felix Heidinger, Albert Vlasak, Anton Fuxjaeger, Stefan Zahlner, Stephan Siegl, Paul Hepperger, Robert Stacher, Martin Leitner, Niklas Maurer, Irene Schicker, Anna-Maria Tilg, Jakob Messner, Clemens Weiß, Alexander Niederl, Florian Mader.
+
+<br>
+
+## Workshop AI Session Recap
+
+<iframe src="./IEA_Task_51_AT_Workshop_AI_Session_Recap.pdf" width="100%" height="600px">
+</iframe>
+
+<br>
+
+## Workshop presentations touching on the topic
+
+:::: {.grid}
+::: {.g-col-9}
+- **Irene Schicker** (GeoSphere Austria)  
+  *Themenschwerpunkte des Workshops und aktuelle österreichische Projekte*
+:::
+::: {.g-col-3}
+<a href="/workshops/2024-11-06/SCHICKER_IEAWind_Themenschwerpunkte_Projekte_Irene.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Erich Klock** (Austro Control)  
+  *Weather-driven operations of critical infrastructure: Parallelen zwischen Flugsicherung und Energieversorgung*
+:::
+::: {.g-col-3}
+<a href="/workshops/2024-11-06/KLOCK_2024-10-03_Inno-Agenda_vSST.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Bernhard Niedermoser** (GeoSphere Austria)  
+  *The AI revolution in weather: Wie Daten und künstliche Intelligenz Erneuerbarenprognosen revolutionieren*
+:::
+::: {.g-col-3}
+<a href="/workshops/2024-11-06/NIEDERMOSER_20241104_KI_Präs_Niedermoser_v3.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Lukas Strauss** (Austro Control Digital Services)  
+  *Session 3: Data Science und künstliche Intelligenz für das Energiesystem*
+:::
+::: {.g-col-3}
+<a href="/workshops/2024-11-06/STRAUSS_IEA_Task_51_AT_Workshop_Session_3_KI_v2.pdf" class="btn btn-primary">
+  <i class="fas fa-download"></i> Download (PDF)
+</a>
+:::
+::::

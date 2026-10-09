@@ -1,0 +1,85 @@
+project:
+  type: website
+  output-dir: public
+  preview:
+    port: 4200
+    browser: true
+    navigate: true
+
+website:
+  title: "IEA Task 51 Austria"
+  description: "IEA Wind TCP Task 51 Österreich"
+  favicon: imgs/ieawind_icon_austria.jpg
+  repo-url: https://github.com/iea-task-51-austria/iea-task-51-austria.github.io
+  repo-actions: [source, edit, issue]
+  site-url: "https://iea-task-51-austria.github.io/"
+  search: true
+  twitter-card:
+    creator: "@IreneSchicker"
+    image: "imgs/header_workshop.png"
+  navbar:
+    left:
+      - text: "Ziele"
+        file: ziele/index.qmd
+      - text: "Workshops"
+        file: workshops/index.qmd
+      - text: "Team"
+        file: team/index.qmd
+      - text: "BSc Thesis Award"
+        file: bsc_thesis_award/index.qmd
+      - text: "Projekte"
+        file: projects/index.qmd
+      - text: "Blog"
+        file: blog.qmd
+      - text: "Publications"
+        file: publications/index.qmd
+      #- text: "Quarto Examples"
+      #  menu:
+      #    - example_pages/quarto_help.qmd
+      #    - example_pages/quarto_about_trestles.qmd
+      #    - example_pages/quarto_about_jolla.qmd
+      #    - example_pages/quarto_about_solana.qmd
+      #    - example_pages/quarto_about_marquee.qmd
+      #    - example_pages/quarto_about_broadside.qmd
+      #    - example_pages/quarto_none.qmd
+      #    - example_pages/quarto_theme.qmd
+      #    - example_pages/people_page_1.qmd
+      #- icon: github
+        #href: https://github.com/Energy-and-Climate
+        #aria-label: GitHub
+  #sidebar: 
+    # - title: "The Remembering Project"
+    #   style: "floating"
+    #   collapse-level: 2
+    #   align: left
+    #   contents: 
+    #     - project/intro.qmd
+    #     - project/1_chpt.qmd
+    #     - project/2_chpt.qmd
+    #     - project/3_chpt.qmd
+    #     - project/4_chpt.qmd
+    #     - project/5_chpt.qmd
+    #- title: "Compendium"
+    #  style: "floating"
+    #  collapse-level: 3
+    #  align: left
+    #  contents: compendium
+    #- title: "Book Project"
+    #  style: "floating"
+    #  collapse-level: 3
+    #  align: left
+    #  contents: book
+    #- title: "Blog"
+    #  contents:
+    #    - blog.qmd
+      
+
+
+format:
+  html:
+    theme: cosmo
+    css: css/nav.css
+    toc: true
+
+editor: source
+

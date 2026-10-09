@@ -1,0 +1,26 @@
+/* css styles */
+
+.navbar {
+  background-color: #023015;
+}
+
+.fa-users {
+  color: rgb(2, 59, 11);      /* Sets the color of the icon to blue */
+  font-weight: bold; /* Makes the icon bold */
+}
+
+
+/*add download button*/
+#mtcars-btn {
+  font-size: xx-small;
+  padding: 0.2rem 0.3rem !important;
+}
+
+#down-btn {
+margin-right: 2px;
+margin-left: 2px;
+}
+
+a:has(#mtcars-btn) {
+text-decoration: none !important;
+}
