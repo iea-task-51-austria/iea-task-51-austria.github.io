@@ -15,7 +15,6 @@ about:
       href: https://github.com/Energy-and-Climate
 format:
   html:
-    theme: quartz
 ---
 
 This is the website for the ACRP project **EnergyProtect**, a collaborative project of GeoSphere Austria and AIT Austrian Institute of Technology (AIT hereafter).

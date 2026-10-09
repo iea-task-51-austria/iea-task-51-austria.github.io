@@ -2,7 +2,6 @@
 title: "IEA Task 51 Österreich-Workshop Ankündigung 2026"
 format:
   html:
-    theme: quartz
     link-external-icon: true
     link-external-newwindow: true
     css: ../css/styles.css

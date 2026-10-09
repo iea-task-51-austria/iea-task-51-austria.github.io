@@ -2,7 +2,6 @@
 #title: "Workshops"
 format:
   html:
-    theme: quartz
     link-external-icon: true
     link-external-newwindow: true
     link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'

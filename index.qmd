@@ -3,7 +3,6 @@ title: " "
 
 format:
   html: 
-    theme: quartz
     css: css/home.css
     page-layout: full
 ---

@@ -4,8 +4,9 @@
 /_freeze/
 /_site/
 
-# Local backup zip (do not commit)
+# Local backup zip and ad-hoc screenshots (do not commit)
 web-main.zip
+image*.png
 
 # Quarto extension lockfiles are fine to commit; nothing to exclude here
 

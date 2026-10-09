@@ -14,7 +14,6 @@ execute:
 
 ormat:
   html:
-    theme: quartz
 
 title-block-banner: "#00000000"
 title-block-banner-color: "#ffffff"
