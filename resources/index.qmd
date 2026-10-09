@@ -1,9 +1,6 @@
 ---
 title: "Resources"
 description: "Some resources used in our project"
-format:
-  html:
-
 title-block-banner: "#00000000"
 title-block-banner-color: "#ffffff"
 include-in-header:
