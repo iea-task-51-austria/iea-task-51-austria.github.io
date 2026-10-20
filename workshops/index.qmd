@@ -29,6 +29,7 @@ editor: visual
 </iframe>
 
 **Das Energiesystem der Zukunft ist ein vom Wetter getriebenes**. Um es zu verstehen und zu lenken greifen Wetterprognosen allein jedoch zu kurz. Die **immer höhere Komplexität** der dezentralen Erzeugungs- und Verbrauchsmuster, kürzere Planungshorizonte und steigende Sicherheits-anforderungen erhöhen bei Erzeugern, Handel und Netze im Betrieb den **Druck immer rascherer Entscheidungen**.
+
 GeoSphere Austria, Austro Control Digital Services GmbH und WEB Windenergie AG veranstalten am **18. November 2026** im Austro Tower Veranstaltungszentrum, 1030 Wien den **3. IEA Task 51 Österreich-Workshop “Von Wetterprognosen zu Entscheidungen - Decision Support-Systeme im KI-Zeitalter”**.
 
 **Die Veranstaltung richtet sich an:**
@@ -45,7 +46,7 @@ Weitere Informationen, insbes. dem Programm zum Workshop finden Sie weiter unten
 ## Anmeldung zum Workshop 2026
 
 
-**Die Anmeldung zum Workshop ist ab sofort und noch bis Mi, 4. November 2026 möglich – 120 Plätze verfügbar.**
+**Die Anmeldung zum Workshop ist ab sofort und noch bis Mi, 4. November 2026 möglich – noch 20 Plätze verfügbar.**
 
 ::: {.blue-underline .center-text}
 [**Weiter zur Anmeldung hier**](https://forms.cloud.microsoft/e/9ZU1Pb5vha ){.external target="_blank"}
@@ -53,11 +54,11 @@ Weitere Informationen, insbes. dem Programm zum Workshop finden Sie weiter unten
 
 ## Workshop-Programm
 <!-- Button for downloading the PDF -->
-<a href="https://iea-task-51-austria.github.io/workshops/IEAT51_AT_Dritter_Workshop_Prognosen_Entscheidungen.pdf" download="IEAT51_AT_Dritter_Workshop_Prognosen_Entscheidungen.pdf" class="btn btn-primary" role="button">
+<a href="https://iea-task-51-austria.github.io/workshops/IEAT51_AT_Workshop_2026_Programm.pdf" download="IEAT51_AT_Workshop_2026_Programm.pdf" class="btn btn-primary" role="button">
   Download Programm
 </a>
 
-<iframe src="IEAT51_AT_Dritter_Workshop_Prognosen_Entscheidungen.pdf" width="100%" height="600px">
+<iframe src="IEAT51_AT_Workshop_2026_Programm.pdf" width="100%" height="600px">
 </iframe>
 
 ## Rückblick auf den Workshop 2025
