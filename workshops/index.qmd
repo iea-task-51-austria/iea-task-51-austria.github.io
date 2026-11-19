@@ -97,6 +97,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 ::: {.g-col-3}
 <a href="praesentationen/MADER_20261118_WEB_Daten für Decision Support-Systeme im Energiehandel_FMA_Workshopdesign_v2.pdf"  download="MADER_20261118_WEB_Daten für Decision Support-Systeme im Energiehandel_FMA_Workshopdesign_v2.pdf" class="btn btn-primary" role="button">
   Download (PDF)
+</a>
 :::
 ::::
 
