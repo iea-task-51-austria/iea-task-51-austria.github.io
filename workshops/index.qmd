@@ -1,5 +1,5 @@
 ---
-title: "IEA Task 51 Österreich-Workshop Ankündigung 2026"
+title: "IEA Task 51 Österreich-Workshop Rückblick 2026"
 format:
   html:
     link-external-icon: true
@@ -22,47 +22,204 @@ include-in-header:
 editor: visual
 ---
 
+# IEA Task 51 Österreich-Workshop Rückblick 2026
 
-# 3. IEA Task 51 Österreich-Workshop am 18.11.2026
+## Highlights & Ergebnisse
 
-<iframe src="IEAT51_AT_Dritter_Workshop_Prognosen_Entscheidungen.pdf" width="100%" height="600px">
-</iframe>
+⚡ **"IEA Task 51 / Forecasting for the weather-driven energy system" – 3. Österreich-Workshop (18. November 2026, Austro Tower, Wien)** ⚡
 
-**Das Energiesystem der Zukunft ist ein vom Wetter getriebenes**. Um es zu verstehen und zu lenken greifen Wetterprognosen allein jedoch zu kurz. Die **immer höhere Komplexität** der dezentralen Erzeugungs- und Verbrauchsmuster, kürzere Planungshorizonte und steigende Sicherheits-anforderungen erhöhen bei Erzeugern, Handel und Netze im Betrieb den **Druck immer rascherer Entscheidungen**.
+Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in der Energiebranche? Wie lassen sich KI-gestützte Decision Support-Systeme konzipieren und robust und sicher implementieren?
 
-GeoSphere Austria, Austro Control Digital Services GmbH und WEB Windenergie AG veranstalten am **18. November 2026** im Austro Tower Veranstaltungszentrum, 1030 Wien den **3. IEA Task 51 Österreich-Workshop “Von Wetterprognosen zu Entscheidungen - Decision Support-Systeme im KI-Zeitalter”**.
+**Key Notes:**  
+- Bernhard Niedermoser (GeoSphere Austria): **Von der Vorhersage zum Impakt –Was können wir aus Extremereignissen & Katastrophenmanagement mitnehmen und für die Energiebranche nutzen**
+- Birgit Reinhofer-Mitterer & Mario Wellscheller (Austro Control): **(AI) Innovation in Air Traffic Management**
+- Benoît Bletterie (Austrian Power Grid): **KI im Netzbetrieb – Erwartungen und Hürden im Praxis-Check**
 
-**Die Veranstaltung richtet sich an:**
+**Danke** an alle Vortragenden und Teilnehmenden – und an die Organisations-Team aus GeoSphere Austria & Austro Control Digital Services.
 
-*	**Expert:innen** der Energieversorgungs-unternehmen, Netzbetreiber und Energiehändler
-
-*   **Entwickler:innen** von systemkritischer Software und KI-Lösungen
-
-*	**Forscher:innen und Studierende** an den Universitäten und Forschungseinrichtungen
-
-Weitere Informationen, insbes. dem Programm zum Workshop finden Sie weiter unten.
-
-
-## Anmeldung zum Workshop 2026
-
-
-**Die Anmeldung zum Workshop ist ab sofort und noch bis Mi, 4. November 2026 möglich – noch 20 Plätze verfügbar.**
-
-::: {.blue-underline .center-text}
-[**Weiter zur Anmeldung hier**](https://forms.cloud.microsoft/e/9ZU1Pb5vha ){.external target="_blank"}
-:::
-
-## Workshop-Programm
 <!-- Button for downloading the PDF -->
-<a href="https://iea-task-51-austria.github.io/workshops/IEAT51_AT_Workshop_2026_Programm.pdf" download="IEAT51_AT_Workshop_2026_Programm.pdf" class="btn btn-primary" role="button">
-  Download Programm
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/IEAT51_AT_Workshop_2026_Programm.pdf" download="IEAT51_AT_Workshop_2026_Programm.pdf" class="btn btn-primary" role="button">
+  Download Workshop-Programm
 </a>
 
-<iframe src="IEAT51_AT_Workshop_2026_Programm.pdf" width="100%" height="600px">
-</iframe>
+## Workshop-Präsentationen
 
-## Rückblick auf den Workshop 2025
+### Eröffnung / Einordnung
+:::: {.grid}
+::: {.g-col-9}
+- **Titelfolie**  
+  *IEA Wind TCP Task 51 – 3. Österreich-Workshop*
+:::
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
 
-**Einen Rückblick auf den letztjährigen Workshop** inkl. der Ergebnisse daraus finden Sie auf unserem
-[**Projekt-Blog**](https://iea-task-51-austria.github.io/blog.html )
+:::: {.grid}
+::: {.g-col-9}
+- **Lukas Strauss** (Austro Control Digital Services)  
+  *Decision Support-Systeme im KI-Zeitalter – Einordnung und Ziele des Workshops*
+:::
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/STRAUSS_IEAT51AT_Workshop_2026_Vortrag_Strauss_v1.0.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
 
+:::: {.grid}
+::: {.g-col-9}
+- **Irene Schicker** (GeoSphere Austria)  
+  *Nationale und internationale Entwicklungen in AI Weather Prediction*
+:::
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/SCHICKER_AIWP_Entwicklungen_18-11_v0.1.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Florian Mader** (WEB Windenergie)  
+  *Daten für Decision Support-Systeme im Energiehandel*
+:::
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/MADER_20261118_WEB_Daten für Decision Support-Systeme im Energiehandel_FMA_Workshopdesign_v2.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+::::
+
+### Key Notes
+:::: {.grid}
+::: {.g-col-9}
+- **Bernhard Niedermoser** (GeoSphere Austria)  
+  *Von der Vorhersage zum Impakt –Was können wir aus Extremereignissen & Katastrophenmanagement mitnehmen und für die Energiebranche nutzen*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Birgit Reinhofer-Mitterer, Mario Wellscheller (Austro Control)**
+  *(AI) Innovation in Air Traffic Management*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Benoît Bletterie** (Austrian Power Grid)
+  *KI im Netzbetrieb – Erwartungen und Hürden im Praxis-Check*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+### Kurzvorträge I – Forschung und Prognosetools in Entwicklung
+:::: {.grid}
+::: {.g-col-9}
+- **Marc Dünser** (Austrian Institute of Technology)
+  *EASE – Machine-Learning-basierte Vereisungsprognosen für Windturbinen*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Irene Schicker** (GeoSphere Austria)
+  *Destination Earth On-Demand Extremes –What-if-Szenarien für Wetter & Energieanwendungen*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Christian Bors** (Austro Control Digital Services)
+  *AEONEX – Extreme Erzeugungsabweichungen von erneuerbaren Energien
+(Wind, Photovoltaik, Kleinwasserkraft) im österreichischen Stromnetz*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Matthias Sammer** (Open Beta)
+  *Von Klimadaten zu finanziellen Entscheidungen – Asset-Level Risk Assessment mit LuLarge*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+
+### Kurzvorträge II – KI-Einsatz in sicherheitskritischen Anwendungsbereichen
+:::: {.grid}
+::: {.g-col-9}
+- **Andreas Stephanides** (Siemens)
+  *Durch KI, Daten und Analytics wird die Produktion der Zukunft zum aktiven Teilnehmer im Energiesystem*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Anton Fuxjäger** (GeoSphere Austria)
+  *Less Copper, More Code. Von der Prognose zur Entscheidung im Netzbetrieb*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+ - **Johannes Sachsperger** (Austro Control Digital Services)
+  *SIMONA – EU AI Act und EASA AI Guidelines in Action*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Dimcho Georgiev** (FH Technikum Wien)
+  *KI und IT-Security aus Sicht der Lehre an der FH Technikum Wien*
+:::
+<!--
+::: {.g-col-3}
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+:::
+-->
+::::
+
+---
