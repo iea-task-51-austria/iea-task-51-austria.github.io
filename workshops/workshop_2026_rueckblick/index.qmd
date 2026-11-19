@@ -32,7 +32,9 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 
 **Key Notes:**  
 - Bernhard Niedermoser (GeoSphere Austria): *Von der Vorhersage zum Impakt –Was können wir aus Extremereignissen & Katastrophenmanagement mitnehmen und für die Energiebranche nutzen*
+
 - Birgit Reinhofer-Mitterer & Mario Wellscheller (Austro Control): *(AI) Innovation in Air Traffic Management*
+
 - Benoît Bletterie (Austrian Power Grid): *KI im Netzbetrieb – Erwartungen und Hürden im Praxis-Check*
 
 **Danke** an alle Vortragenden und Teilnehmenden – und an die Organisations-Team aus GeoSphere Austria & Austro Control Digital Services.
@@ -57,10 +59,9 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
   *IEA Wind TCP Task 51 – 3. Österreich-Workshop*
 :::
 ::: {.g-col-3}
-<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
   Download PDF
 </a>
-
 :::
 ::::
 
@@ -70,7 +71,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
   *Decision Support-Systeme im KI-Zeitalter – Einordnung und Ziele des Workshops*
 :::
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/STRAUSS_IEAT51AT_Workshop_2026_Vortrag_Strauss_v1.0.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/STRAUSS_IEAT51AT_Workshop_2026_Vortrag_Strauss_v1.0.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 ::::
 
@@ -80,7 +81,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
   *Nationale und internationale Entwicklungen in AI Weather Prediction*
 :::
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/SCHICKER_AIWP_Entwicklungen_18-11_v0.1.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/SCHICKER_AIWP_Entwicklungen_18-11_v0.1.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 ::::
 
@@ -90,7 +91,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
   *Daten für Decision Support-Systeme im Energiehandel*
 :::
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/MADER_20261118_WEB_Daten für Decision Support-Systeme im Energiehandel_FMA_Workshopdesign_v2.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/MADER_20261118_WEB_Daten für Decision Support-Systeme im Energiehandel_FMA_Workshopdesign_v2.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 ::::
 
@@ -102,7 +103,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -114,7 +115,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -126,7 +127,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -139,7 +140,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -151,7 +152,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -164,7 +165,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -176,7 +177,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -190,7 +191,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -202,7 +203,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -214,7 +215,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
@@ -226,7 +227,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
 :::
 -->
 ::::
