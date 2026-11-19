@@ -43,6 +43,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 <a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_ankuendigung/IEAT51_AT_Workshop_2026_Programm.pdf" download="IEAT51_AT_Workshop_2026_Programm.pdf" class="btn btn-primary" role="button">
   Download Programm
 </a>
+
 <iframe src="https://iea-task-51-austria.github.io/workshops/workshop_2026_ankuendigung/IEAT51_AT_Workshop_2026_Programm.pdf" width="100%" height="600px">
 </iframe>
 
@@ -56,7 +57,10 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
   *IEA Wind TCP Task 51 – 3. Österreich-Workshop*
 :::
 ::: {.g-col-3}
-<a href="workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf?download=1" class="btn btn-primary">Download (PDF)</a>
+<a href="https://iea-task-51-austria.github.io/workshops/workshop_2026_rueckblick/praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+  Download PDF
+</a>
+
 :::
 ::::
 
