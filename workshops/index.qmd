@@ -118,7 +118,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 
 :::: {.grid}
 ::: {.g-col-9}
-- **Birgit Reinhofer-Mitterer, Mario Wellscheller (Austro Control)**
+- **Birgit Reinhofer-Mitterer, Mario Wellscheller** (Austro Control)
   *(AI) Innovation in Air Traffic Management*
 :::
 <!--
@@ -137,7 +137,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/BLETTERIE_IEA_TASK_51.pdf"  download="BLETTERIE_IEA_TASK_51.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
@@ -152,7 +152,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/DUENSER_2026-11-18-EASE-IEA-Task51.pdf"  download="DUENSER_2026-11-18-EASE-IEA-Task51.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
@@ -195,7 +195,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/SAMMER_2026-11-18_IEA-Task-51_Open-Beta.pdf"  download="SAMMER_2026-11-18_IEA-Task-51_Open-Beta.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
