@@ -31,6 +31,7 @@ editor: visual
 Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in der Energiebranche? Wie lassen sich KI-gestützte Decision Support-Systeme konzipieren und robust und sicher implementieren?
 
 **Key Notes:**  
+
 - Bernhard Niedermoser (GeoSphere Austria): *Von der Vorhersage zum Impakt –Was können wir aus Extremereignissen & Katastrophenmanagement mitnehmen und für die Energiebranche nutzen*
 
 - Birgit Reinhofer-Mitterer & Mario Wellscheller (Austro Control): *(AI) Innovation in Air Traffic Management*
@@ -135,13 +136,11 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 - **Benoît Bletterie** (Austrian Power Grid)
   *KI im Netzbetrieb – Erwartungen und Hürden im Praxis-Check*
 :::
-<!--
 ::: {.g-col-3}
 <a href="praesentationen/BLETTERIE_IEA_TASK_51.pdf"  download="BLETTERIE_IEA_TASK_51.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
--->
 ::::
 
 ### Kurzvorträge I – Forschung und Prognosetools in Entwicklung
@@ -150,13 +149,11 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 - **Marc Dünser** (Austrian Institute of Technology)
   *EASE – Machine-Learning-basierte Vereisungsprognosen für Windturbinen*
 :::
-<!--
 ::: {.g-col-3}
 <a href="praesentationen/DUENSER_2026-11-18-EASE-IEA-Task51.pdf"  download="DUENSER_2026-11-18-EASE-IEA-Task51.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
--->
 ::::
 
 :::: {.grid}
@@ -193,13 +190,11 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 - **Matthias Sammer** (Open Beta)
   *Von Klimadaten zu finanziellen Entscheidungen – Asset-Level Risk Assessment mit LuLarge*
 :::
-<!--
 ::: {.g-col-3}
 <a href="praesentationen/SAMMER_2026-11-18_IEA-Task-51_Open-Beta.pdf"  download="SAMMER_2026-11-18_IEA-Task-51_Open-Beta.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
--->
 ::::
 
 
