@@ -69,7 +69,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::: {.grid}
 ::: {.g-col-9}
 - **Lukas Strauss** (Austro Control Digital Services)  
-  *Decision Support-Systeme im KI-Zeitalter – Einordnung und Ziele des Workshops*
+  *Decision Support-Systeme im KI-Zeitalter – Einordnung und Ziele des Workshops* (inkl. slido-Umfrageergebnisse)
 :::
 ::: {.g-col-3}
 <a href="praesentationen/STRAUSS_IEAT51AT_Workshop_2026_Vortrag_Strauss_v1.0.pdf"  download="STRAUSS_IEAT51AT_Workshop_2026_Vortrag_Strauss_v1.0.pdf" class="btn btn-primary" role="button">
@@ -81,7 +81,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::: {.grid}
 ::: {.g-col-9}
 - **Irene Schicker** (GeoSphere Austria)  
-  *Nationale und internationale Entwicklungen in AI Weather Prediction*
+  *Nationale und internationale Entwicklungen in AI Weather Prediction* (inkl. slido-Umfrageergebnisse)
 :::
 ::: {.g-col-3}
 <a href="praesentationen/SCHICKER_AIWP_Entwicklungen_18-11_v0.1.pdf"  download="SCHICKER_AIWP_Entwicklungen_18-11_v0.1.pdf" class="btn btn-primary" role="button">
@@ -110,7 +110,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/NIEDERMOSER_IEAT51AT_Workshop_KeyNote_GeoSphere_2026.pdf"  download="NIEDERMOSER_IEAT51AT_Workshop_KeyNote_GeoSphere_2026.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
@@ -124,7 +124,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/REINHOFER_MITTERER_WELLSCHEL_20261118_IEAT51_AT_Workshop.pdf"  download="REINHOFER_MITTERER_WELLSCHEL_20261118_IEAT51_AT_Workshop.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
@@ -163,7 +163,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/SCHICKER_DestinationEarthOn-DemandExtremes.pdf"  download="SCHICKER_DestinationEarthOn-DemandExtremes.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
@@ -178,7 +178,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/BORS_AEONEX_Kurzvortrag.pdf"  download="BORS_AEONEX_Kurzvortrag.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
@@ -220,7 +220,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/FUXJAEGER_2026.11.18-EIA51.Enlite.AI.Fuxjaeger.pdf"  download="FUXJAEGER_2026.11.18-EIA51.Enlite.AI.Fuxjaeger.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
@@ -234,7 +234,7 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/SACHSPERGER_AI_Act_SIMONA.pdf"  download="SACHSPERGER_AI_Act_SIMONA.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
@@ -248,11 +248,23 @@ Die zentrale Frage: Wie gelangen wir von Wetterprognosen zu Entscheidungen in de
 :::
 <!--
 ::: {.g-col-3}
-<a href="praesentationen/IEAT51AT_Workshop_2026_Titelfolie.pdf"  download="IEAT51AT_Workshop_2026_Titelfolie.pdf" class="btn btn-primary" role="button">
+<a href="praesentationen/GEORGIEV_BALLNER_Vortrag_KI_IT-Security_in_der_Lehre.pdf"  download="GEORGIEV_BALLNER_Vortrag_KI_IT-Security_in_der_Lehre.pdf" class="btn btn-primary" role="button">
   Download (PDF)
 </a>
 :::
 -->
+::::
+
+:::: {.grid}
+::: {.g-col-9}
+- **Resümee & Verabschied**
+  *Inkl. slido-Umfrageergebnisse*
+:::
+::: {.g-col-3}
+<a href="praesentationen/IEAT51AT_Workshop_2026_Resümee_slido.pdf"  download="IEAT51AT_Workshop_2026_Resümee_slido.pdf" class="btn btn-primary" role="button">
+  Download (PDF)
+</a>
+:::
 ::::
 
 ---
