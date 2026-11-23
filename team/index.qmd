@@ -33,7 +33,7 @@ GeoSphere Austria, Austro Control Digital Services und WEB Windenergie nehmen f�
 
 *	**Dr. Irene Schicker**: Meteorologin mit Schwerpunkt erneuerbare Energien und Machine Learning. Leitung nationaler Projekte (Extremereignisse, erneuerbare Energien, AI), Leitung des AP “Renewable Energy” im Projekt “Destination Earth Digital Twin Extremes”.
 
-*	**Anna-Maria Tilg, PhD**: Meteorologin mit Forschungsfokus auf Klimavariabilität und deren Auswirkungen auf verschiedene Anwendungsbereiche, insbes. auf erneuerbare Energien. Mitarbeit in  nationa-len/internationalen Windenergie-Projekten.
+*	**Mag. Annemarie Lexer**: Meteorologin mit Forschungsfokus auf Klimavariabilität und deren Auswirkungen auf verschiedene Anwendungsbereiche, insbes. auf erneuerbare Energien. Mitarbeit in  nationa-len/internationalen Windenergie-Projekten.
 
 
 **Austro Control Digital Services GmbH** ist Spezialistin für die Entwicklung sicherer Softwarelösungen. Besondere Expertise liegt im Bereich des Extremwetterimpakts auf die kritische Energieinfrastruktur vor. ACDS bringt KI-Algorithmen für die Energiewirtschaft nach den Sicherheitsvorgaben des neuen EU AI Act zum Einsatz. Ein relevantes aktuelles Projekt ist: PROFICIENT//WIND: Echtzeitdetektion und -prognose von Erzeugungsanomalien der österreichischen Windkraft.
